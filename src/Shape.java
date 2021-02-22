@@ -1,6 +1,7 @@
 import java.awt.*;
 
 public class Shape {
+
     protected Color color;
     protected boolean filled;
 

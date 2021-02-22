@@ -5,12 +5,12 @@ public class Shape {
     protected Color color;
     protected boolean filled;
 
-    public void Shape() {
+    public Shape() {
         this.color = Color.red;
         this.filled = true;
     }
 
-    public void Shape(Color color, boolean filled) {
+    public Shape(Color color, boolean filled) {
         this.color = color;
         this.filled = filled;
     }
